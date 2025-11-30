@@ -41,7 +41,7 @@ Our research demonstrates that radio data can potentially serve as an **effectiv
     ├── plot.py                 # Visualization functions
     ├── scripts/                # Modular steps for pipelines
     │   ├── embeddings.py       # Autoencoder pipeline steps
-    │   └── logreg.py           # Logistic regression pipeline steps
+    │   └── modelling.py        # ML (Logistic regression) pipeline steps
     └── utils.py                # Utility functions
 ```
 
