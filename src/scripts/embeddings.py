@@ -170,9 +170,7 @@ def download_and_prepare_data(config):
 
         all_i_raw_np = np.array(all_i_raw, dtype=np.float64)
         all_v_raw_np = np.array(all_v_raw, dtype=np.float64)
-        
-        all_i_raw_np = denoise_maps_by_azimuth(all_i_raw_np, azimuths)
-        all_v_raw_np = denoise_maps_by_azimuth(all_v_raw_np, azimuths)
+  
         
         logger.info(f"Shape of all_I_raw_np: {all_i_raw_np.shape}")
         logger.info(f"Number of NaNs in all_I_raw_np: {np.isnan(all_i_raw_np).sum()}")
