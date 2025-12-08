@@ -20,8 +20,7 @@ from src.logger import get_logger
 from src.models import ConvAE
 from src.plots import visualize_samples, plot_spectral_comparison
 from src.utils import (train_model, plot_losses, 
-                       gather_fits_files, extract_azimuth_from_filename,
-                       denoise_maps_by_azimuth)
+                       gather_fits_files, extract_azimuth_from_filename)
 from src.constants import (
     PLOTS_DIR,
     AE_OUTPUTS,

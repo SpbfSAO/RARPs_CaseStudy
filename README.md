@@ -95,8 +95,11 @@ After execution, all results, including saved models, plots, and prediction tabl
 
 -----
 
-## Link to the corresponding article
+## Link to the article
 
+The Ratan Active Region Patches (RARPs) Database: A New Database of Solar Active Region Radio Signatures from the RATAN-600 Telescope:
+
+https://arxiv.org/abs/2512.05702
 
 
 -----

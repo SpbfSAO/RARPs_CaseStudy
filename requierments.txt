@@ -46,7 +46,7 @@ python-dateutil==2.9.0.post0
 pytz==2025.2
 PyWavelets==1.7.0
 PyYAML==6.0.2
-ratansunpy==0.2.5
+ratansunpy==0.2.3
 requests==2.32.4
 scikit-image==0.25.2
 scikit-learn==1.7.1
