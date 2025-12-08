@@ -95,6 +95,12 @@ After execution, all results, including saved models, plots, and prediction tabl
 
 -----
 
+## Link to the corresponding article
+
+
+
+-----
+
 ## License
 
 This project is distributed under the MIT License. See the `LICENSE` file for details.
