@@ -1,6 +1,7 @@
 notebooks/ARSpectogramVisualization.ipynb
 data/processed/logreg_predictions_*.csv
 data/processed/logreg_predictions_*.csv
+output/
 
 .DS_Store
 Thumbs.db
@@ -25,3 +26,4 @@ data/processed/logreg_predictions_*.csv
 
 logs/
 *.log
+*/__pycache__/*
